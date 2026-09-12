@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+common_passwords.txt
