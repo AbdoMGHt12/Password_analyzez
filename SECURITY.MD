@@ -6,7 +6,7 @@ If you discover a security issue, please **do not** open a public issue.
 
 Instead, contact the maintainer directly at:
 
-    your67h@gmail.com
+    opushot76@gmail.com
 
 Include:
 - A clear description of the issue
